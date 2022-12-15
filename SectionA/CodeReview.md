@@ -67,22 +67,3 @@ class Solution:
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 ```
-
-# Section B: Projects
-
-### Project I am most proud of:
-
-* https://github.com/smzimelaJHB/Hangman_Iteration3
-
-
-# Section C: Code Challenge
-
-### Option 1: Say the Number : 
-
-* https://github.com/smzimelaJHB/numbertowords
-
-# Section D: Loom Video Submission
-
-### Link to the video:
-
-* https://www.loom.com/share/89e1e727b6324e2998855383d4c28084
